@@ -1,5 +1,21 @@
 # MindWave
-
+<div id="top"></div>
+<div align="center">
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/uses-brains.svg" />
+<img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" />
+  <br>
+  <img src="https://img.shields.io/github/repo-size/The-Data-Alchemists-Manipal/MindWave?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/The-Data-Alchemists-Manipal/MindWave?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues-closed-raw/The-Data-Alchemists-Manipal/MindWave?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues-pr/The-Data-Alchemists-Manipal/MindWave?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues-pr-closed/The-Data-Alchemists-Manipal/MindWave?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/The-Data-Alchemists-Manipal/MindWave?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/The-Data-Alchemists-Manipal/MindWave?style=for-the-badge" />
+  <img src="https://img.shields.io/github/contributors/The-Data-Alchemists-Manipal/MindWave?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/github/stars/The-Data-Alchemists-Manipal/MindWave?style=for-the-badge" />
+  </div>
 MindWave is an open-source project aimed at beginners who want to learn about Data Science, Machine Learning, Deep Learning, and Reinforcement Learning algorithms in Python. This project aims to provide a platform for beginners to implement the relevant algorithms in Python.
 
 ## Overview
@@ -27,6 +43,11 @@ Open Source has played a critical role in the growth and success of data science
 - The files should be uploaded directly into the corresponding folder (eg. Machine Learning, Deep Learning, etc.) and linked in the README.md file of the respective folder. Do not create new folders within the concept folders unless instructed to do so.
 - Please be courteous to the reviewers as they will always be polite to you.
 
+## Tech Stack Used
+![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
 ## Code of Conduct 
 
 You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
@@ -35,3 +56,10 @@ You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
 
 This project follows the [MIT License](/LICENSE).
 
+## Contributors
+
+<a href="https://github.com/the-data-alchemists-manipal/mindWave/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=the-data-alchemists-manipal/mindWave" />
+</a>
+
+<p align="right">(<a href="#top">Back to top</a>)</p>
